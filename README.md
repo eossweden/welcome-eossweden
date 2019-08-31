@@ -30,6 +30,25 @@ We believe that everyone can contribute and benefit from Decentralized Community
 * **Organization**
 * etc…
 
+<p align="center">
+  <img src="./ICON-sweden-SEC-logo-1024.png" width="450" title="Holistic approach to Information Security and Privacy">
+</p>
+
+# Experienced BP / P-Rep
+We manages complex Hybrid-Cloud Blockchain Infrastructures. We provide Security, Privacy, Reliable Operations, Governance, Legal, Compliance and Risk Management Services. We are Block Producers and have active Block Production Nodes in several Blockchain Projects, such as;
+
+ICON Sweden: https://tracker.icon.foundation/governance
+Telos: https://telos.bloks.io/account/swedencornet
+MEET.ONE: https://meetone.bloks.io/account/swedencore.m
+Snax: https://explorer.snax.one/producers [BP: sweden]
+EOS Mainnet (Standby): https://bloks.io/account/swedencornet
+D.Tube: https://d.tube/#!/election [BP: corenet]
+
+<p align="center">
+  <img src="./ICON-Sweden_points-1.png" title="Holistic approach to Information Security and Privacy">
+</p>
+
+
 # Links / Social Media for "swedencornet" (ICON Sweden | EOSIO)
 
 * **Web:** http://eossweden.eu/
